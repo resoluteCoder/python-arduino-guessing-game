@@ -1,4 +1,3 @@
-import time
 import serial
 from random import randint
 
